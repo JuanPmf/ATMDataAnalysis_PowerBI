@@ -1,0 +1,51 @@
+﻿LocationID,Location Name,No of ATMs,City,State,Country
+AT-001,National Bank HQ,7,Barranquilla,Atlantico,Colombia
+AT-002,Victoria Island ATM,3,Barranquilla,Atlantico,Colombia
+AT-003,Ikeja ATM,3,Barranquilla,Atlantico,Colombia
+AT-004,Lekki ATM,3,Barranquilla,Atlantico,Colombia
+AT-005,Surulere ATM,3,Barranquilla,Atlantico,Colombia
+AT-006,Festac ATM,3,Barranquilla,Atlantico,Colombia
+AT-007,Apapa ATM,3,Barranquilla,Atlantico,Colombia
+AT-008,Ikorodu ATM,3,Barranquilla,Atlantico,Colombia
+AT-009,Yaba ATM,3,Barranquilla,Atlantico,Colombia
+AT-010,Maryland ATM,3,Barranquilla,Atlantico,Colombia
+AT-011,Ajah ATM,3,Barranquilla,Atlantico,Colombia
+AT-012,Oshodi ATM,3,Barranquilla,Atlantico,Colombia
+AT-013,Ogba ATM,3,Barranquilla,Atlantico,Colombia
+AT-014,Ikoyi ATM,3,Barranquilla,Atlantico,Colombia
+AT-015,Agege ATM,3,Barranquilla,Atlantico,Colombia
+VC-001,National Bank Cali Branch ATM,5,Cali,Valle del Cauca,Colombia
+VC-002,Sabon Gari ATM,2,Cali,Valle del Cauca,Colombia
+VC-003,Fagge ATM,2,Cali,Valle del Cauca,Colombia
+VC-004,Nassarawa ATM,2,Cali,Valle del Cauca,Colombia
+VC-005,Kofar Ruwa ATM,2,Cali,Valle del Cauca,Colombia
+VC-006,Tarauni ATM,2,Cali,Valle del Cauca,Colombia
+VC-007,Dala ATM,2,Cali,Valle del Cauca,Colombia
+VC-008,Gwale ATM,2,Cali,Valle del Cauca,Colombia
+VC-009,Ungogo ATM,2,Cali,Valle del Cauca,Colombia
+VC-010,Warawa ATM,2,Cali,Valle del Cauca,Colombia
+AN-001,FCT Medellin ATM,5,Medellin,Antioquia,Colombia
+AN-002,Kubwa ATM,2,Medellin,Antioquia,Colombia
+AN-003,Garki ATM,2,Medellin,Antioquia,Colombia
+AN-004,Maitama ATM,2,Medellin,Antioquia,Colombia
+AN-005,Wuse ATM,2,Medellin,Antioquia,Colombia
+AN-006,Lugbe ATM,2,Medellin,Antioquia,Colombia
+BG-001,Bogota ATM,5,Bogota,Bogota,Colombia
+BG-002,Nsukka ATM,2,Bogota,Bogota,Colombia
+BG-003,Agbani ATM,2,Bogota,Bogota,Colombia
+BG-004,Abakpa ATM,2,Bogota,Bogota,Colombia
+BG-005,Awgu ATM,2,Bogota,Bogota,Colombia
+BG-006,Oji River ATM,2,Bogota,Bogota,Colombia
+BG-007,Udi ATM,2,Bogota,Bogota,Colombia
+BG-008,Nkanu ATM,2,Bogota,Bogota,Colombia
+BG-009,Emene ATM,2,Bogota,Bogota,Colombia
+RS-001,Port Harcourt ATM,5,Pereira,Risaralda,Colombia
+RS-002,Bonny ATM,2,Pereira,Risaralda,Colombia
+RS-003,Okrika ATM,2,Pereira,Risaralda,Colombia
+RS-004,Obio-Akpor ATM,2,Pereira,Risaralda,Colombia
+RS-005,Eleme ATM,2,Pereira,Risaralda,Colombia
+RS-006,Emohua ATM,2,Pereira,Risaralda,Colombia
+RS-007,Gokana ATM,2,Pereira,Risaralda,Colombia
+RS-008,Oyigbo ATM,2,Pereira,Risaralda,Colombia
+RS-009,Ahoada ATM,2,Pereira,Risaralda,Colombia
+RS-010,Opobo ATM,2,Pereira,Risaralda,Colombia
