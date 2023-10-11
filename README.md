@@ -18,4 +18,4 @@ This page contains diverse visualizations of general figures about the transacti
 ## Demographic page:
 The Demography page shows visualizations of general figures about the behavior of the ATM by different perspectives of client's information, also has dynamic filters the get more detailed information and buttons to navigate through the report.
 
-![](Images/Demography_Filters.png)
+![](Images/Demography_Page.png)
